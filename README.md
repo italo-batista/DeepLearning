@@ -3,21 +3,17 @@
 This repository keeps track of my awesome adventure trying
 to know a little more about deep learning (mainly with TensorFlow :smile:).
 
+
+
 ## What can you find here?
 
 * Links to my personal projects while learning Deep Learning and Tensorflow
 * Links for online resources to get started with Deep Learning and TensorFlow
 
-## Personal Projects using TensorFlow
 
-* [Getting Started with Deep Learning with MNIST](https://github.com/mari-linhares/mnist-tensorflow)  
-* [MNIST running on Android](https://github.com/mari-linhares/mnist-android-tensorflow)  
-* [Exploring Spiral Dataset](exploring-spiral-dataset/)  
-* [Vanilla GANs for fashion MNIST](GAN-fashion-MNIST/)
-* [Easy 21 - Getting started with Reinforcement Learning](https://github.com/mari-linhares/easy21)
-* [TensorFlow Brasil - A repository for TensorFlow code samples and tutorials in Portuguese](https://github.com/mari-linhares/tensorflow-brasil)
 
 ## Get Started with Deep Learning and TensorFlow
+
 
 ### DL and ML 101: blog posts and videos to get started
 
@@ -30,10 +26,12 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 ### CNNs - Convolutional Neural Networks
 * [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA&t=1s)  
 
+
 ### RNNs - Recurrent Neural Networks
 
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)  
+
 
 ### GANs - Generative Adversarial Networks
 
@@ -55,11 +53,13 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 * [Open AI](https://blog.openai.com/)
 * [Fast AI](http://www.fast.ai/)
 
+
 ### University Courses
 
 * [CS 20SI: TensorFlow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)  
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)  
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+
 
 ### Youtube series
 
@@ -67,6 +67,7 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 * [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)  
 * [Hvass Lab](https://www.youtube.com/user/hvasslabs/videos)  
 * [Google Dev - Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&index=7&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)  
+
 
 ### GO DEEP - learn more about deep learning in 1 or 2 months
 
@@ -77,3 +78,19 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 ### Advanced tutorials
 
 * [Jason Mayes - Rock Paper Scissors - Machine Learning Style using Tensor Flow](https://www.youtube.com/watch?v=mtRDNDqjUzM)
+
+
+### Word2Vec
+
+[Word2vec Tutorial](https://rare-technologies.com/word2vec-tutorial/)
+
+
+### Doc2Vec
+
+[A Word is Worth a Thousand Vectors](https://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/#footnote10)
+[Doc2vec tutorial](https://rare-technologies.com/doc2vec-tutorial/)
+
+
+## Personal Projects using TensorFlow
+
+

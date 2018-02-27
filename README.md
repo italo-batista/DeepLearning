@@ -82,13 +82,16 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 
 ### Word2Vec
 
-[Word2vec Tutorial](https://rare-technologies.com/word2vec-tutorial/)
+* [Word2vec Tutorial](https://rare-technologies.com/word2vec-tutorial/)
 
 
 ### Doc2Vec
 
-[A Word is Worth a Thousand Vectors](https://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/#footnote10)
-[Doc2vec tutorial](https://rare-technologies.com/doc2vec-tutorial/)
+* [A gentle introduction to Doc2Vec](https://medium.com/scaleabout/a-gentle-introduction-to-doc2vec-db3e8c0cce5e)
+* [A Word is Worth a Thousand Vectors](https://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/#footnote10)
+* [Doc2vec tutorial](https://rare-technologies.com/doc2vec-tutorial/)
+* [From word2vec to doc2vec: an approach driven by Chinese restaurant process](https://medium.com/kifi-engineering/from-word2vec-to-doc2vec-an-approach-driven-by-chinese-restaurant-process-93d3602eaa31)
+* [Modern Methods for Sentiment Analysis](http://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 
 
 ## Personal Projects using TensorFlow
